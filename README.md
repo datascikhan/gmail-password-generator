@@ -195,7 +195,7 @@ If you like this project:
 
 For collaboration or queries:
 
-* GitHub: YourProfileHere
+* GitHub: datascikhan
 
 ---
 
